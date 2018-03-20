@@ -1,3 +1,6 @@
+#  **This repo has been moved to [android-samples](https://github.com/gsuitedevs/android-samples/tree/master/drive/trash).**
+---
+
 # Google Drive Android API Trash Sample.
 
 Google Drive Android API Trash Sample app demonstrates trashing of
